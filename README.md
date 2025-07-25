@@ -16,3 +16,6 @@ This repository supports the scientific research: "**Harnessing Convolutional Ne
     * *Affiliations:*
         * Department of Physics, Faculty of Natural Sciences and Mathematics, Escuela Superior Politécnica del Litoral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
         * Laboratorio de Dinámica Estocástica, Centro de Física, Instituto Venezolano de Investigaciones Científicas, Caracas, Venezuela.
+
+# Database
+The database for training and developing the convolutional neural network-based predictive models for Leptospira species classification using genomic data is in the repository as "Database.zip". This file contain the 10 species originally used, classified between the discarded and the best performing ones.
